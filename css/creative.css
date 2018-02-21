@@ -162,6 +162,16 @@ header.masthead {
     header.masthead h1 {
       font-size: 4rem; } }
 
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.circle-image-size {
+  width: 100%;
+}
+
 .service-box {
   max-width: 400px; }
 
